@@ -1,10 +1,6 @@
-# Practical Lab Assignment - File Handling Operations
+# Practical Lab Assignment
 
-Create a class Person with two private members name and telephone number
-
-Write a program that will create a data file containing name and telephone numbers of person. Use a class object to store each set of data. Read the file contents and display it on screen.
-- Write an interactive menu driven program that will access the file created in program no. 1 and implement the following tasks:
-- Determine the telephone number of the specified person.
-- Determine the name if telephone number is known.
-- Delete a record.
-- Add a record to a specific position.
+1. Write a program to calculate area of a circle using functions.
+2. Write a program to swap two values using functions.
+3. Write a program to convert time to minutes using functions. (input 3 variables namely hours, minutes and seconds. Convert everything into minutes.)
+4. Write a program to sum the series up to n (Input n)
